@@ -1,0 +1,66 @@
+body{
+	background: #FFF0F5;
+	
+}
+
+img{
+	width: 250px;
+	margin-left: 29em;
+	margin-top: 102px;
+	border-radius: 20px;
+	display:inline-block;
+}
+
+
+h2{
+	width: 140px;
+	margin-top: 0em;
+
+}
+
+.texto{
+	width:200px;
+	display: inline-block;
+	color: #808080;
+}
+
+.corpo{
+	margin-left: 45em;
+	vertical-align: text-top;
+	border-color: black;
+}
+
+
+.botao{
+	margin-left: 54em
+}
+
+.tudo{
+	display: inline-block;
+	margin-top: -500px;
+	margin-left: -8px;
+	background: #ffffff;
+	border-radius: 10px
+
+}
+
+.preço{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	color: green;
+
+}
+
+.botao{
+	padding: 1em;
+	color: #ffffff;
+	background: #3CB371;
+	border-radius: 9px;
+	font-weight: 900;
+	margin-left: 2em;
+	margin-top: 1em;	
+}
+
+a{
+	width: 20px;
+}
